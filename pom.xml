@@ -47,7 +47,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-<finalName>Ruvini_BitCoin_New-with-jenkins</finalName>
+<finalName>Ruvini_BitCoin_New</finalName>
 	</build>
 
 </project>
